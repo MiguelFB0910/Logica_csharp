@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\antecessor_sucessor\antecessor_sucessor\bin\Debug\antecessor_sucessor.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\antecessor_sucessor\antecessor_sucessor\bin\Debug\antecessor_sucessor.exe
+C:\Users\miguel.fbandeira\Documents\C#\antecessor_sucessor\antecessor_sucessor\bin\Debug\antecessor_sucessor.pdb
+C:\Users\miguel.fbandeira\Documents\C#\antecessor_sucessor\antecessor_sucessor\obj\Debug\antecessor_sucessor.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\antecessor_sucessor\antecessor_sucessor\obj\Debug\antecessor_sucessor.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\antecessor_sucessor\antecessor_sucessor\obj\Debug\antecessor_sucessor.exe
+C:\Users\miguel.fbandeira\Documents\C#\antecessor_sucessor\antecessor_sucessor\obj\Debug\antecessor_sucessor.pdb

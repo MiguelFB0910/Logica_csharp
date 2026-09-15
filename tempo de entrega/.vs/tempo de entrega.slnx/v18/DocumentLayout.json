@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miguel.fbandeira\\Documents\\C#\\tempo de entrega\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE72A99-9240-487E-B921-67B4FD9030FF}|tempo de entrega\\tempo de entrega.csproj|c:\\users\\miguel.fbandeira\\documents\\c#\\tempo de entrega\\tempo de entrega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE72A99-9240-487E-B921-67B4FD9030FF}|tempo de entrega\\tempo de entrega.csproj|solutionrelative:tempo de entrega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miguel.fbandeira\\Documents\\C#\\tempo de entrega\\tempo de entrega\\Program.cs",
+              "RelativeDocumentMoniker": "tempo de entrega\\Program.cs",
+              "ToolTip": "C:\\Users\\miguel.fbandeira\\Documents\\C#\\tempo de entrega\\tempo de entrega\\Program.cs",
+              "RelativeToolTip": "tempo de entrega\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:48:58.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

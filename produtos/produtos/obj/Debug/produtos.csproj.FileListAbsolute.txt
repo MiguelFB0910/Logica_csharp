@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\produtos\produtos\bin\Debug\produtos.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\produtos\produtos\bin\Debug\produtos.exe
+C:\Users\miguel.fbandeira\Documents\C#\produtos\produtos\bin\Debug\produtos.pdb
+C:\Users\miguel.fbandeira\Documents\C#\produtos\produtos\obj\Debug\produtos.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\produtos\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\produtos\produtos\obj\Debug\produtos.exe
+C:\Users\miguel.fbandeira\Documents\C#\produtos\produtos\obj\Debug\produtos.pdb

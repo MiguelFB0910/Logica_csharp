@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\tempo de entrega\tempo de entrega\bin\Debug\tempo de entrega.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\tempo de entrega\tempo de entrega\bin\Debug\tempo de entrega.exe
+C:\Users\miguel.fbandeira\Documents\C#\tempo de entrega\tempo de entrega\bin\Debug\tempo de entrega.pdb
+C:\Users\miguel.fbandeira\Documents\C#\tempo de entrega\tempo de entrega\obj\Debug\tempo de entrega.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\tempo de entrega\tempo de entrega\obj\Debug\tempo de entrega.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\tempo de entrega\tempo de entrega\obj\Debug\tempo de entrega.exe
+C:\Users\miguel.fbandeira\Documents\C#\tempo de entrega\tempo de entrega\obj\Debug\tempo de entrega.pdb

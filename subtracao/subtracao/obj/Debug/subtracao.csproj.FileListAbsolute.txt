@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\subtracao\subtracao\bin\Debug\subtracao.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\subtracao\subtracao\bin\Debug\subtracao.exe
+C:\Users\miguel.fbandeira\Documents\C#\subtracao\subtracao\bin\Debug\subtracao.pdb
+C:\Users\miguel.fbandeira\Documents\C#\subtracao\subtracao\obj\Debug\subtracao.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\subtracao\subtracao\obj\Debug\subtracao.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\subtracao\subtracao\obj\Debug\subtracao.exe
+C:\Users\miguel.fbandeira\Documents\C#\subtracao\subtracao\obj\Debug\subtracao.pdb

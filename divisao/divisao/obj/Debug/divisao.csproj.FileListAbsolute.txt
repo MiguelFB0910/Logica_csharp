@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\divisao\divisao\bin\Debug\divisao.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\divisao\divisao\bin\Debug\divisao.exe
+C:\Users\miguel.fbandeira\Documents\C#\divisao\divisao\bin\Debug\divisao.pdb
+C:\Users\miguel.fbandeira\Documents\C#\divisao\divisao\obj\Debug\divisao.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\divisao\divisao\obj\Debug\divisao.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\divisao\divisao\obj\Debug\divisao.exe
+C:\Users\miguel.fbandeira\Documents\C#\divisao\divisao\obj\Debug\divisao.pdb

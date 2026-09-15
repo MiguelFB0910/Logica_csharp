@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\divisao_de_numeros\divisao_de_numeros\bin\Debug\divisao_de_numeros.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\divisao_de_numeros\divisao_de_numeros\bin\Debug\divisao_de_numeros.exe
+C:\Users\miguel.fbandeira\Documents\C#\divisao_de_numeros\divisao_de_numeros\bin\Debug\divisao_de_numeros.pdb
+C:\Users\miguel.fbandeira\Documents\C#\divisao_de_numeros\divisao_de_numeros\obj\Debug\divisao_de_numeros.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\divisao_de_numeros\divisao_de_numeros\obj\Debug\divisao_de_numeros.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\divisao_de_numeros\divisao_de_numeros\obj\Debug\divisao_de_numeros.exe
+C:\Users\miguel.fbandeira\Documents\C#\divisao_de_numeros\divisao_de_numeros\obj\Debug\divisao_de_numeros.pdb

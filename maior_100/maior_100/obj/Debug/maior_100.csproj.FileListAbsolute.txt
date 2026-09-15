@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\maior_100\maior_100\bin\Debug\maior_100.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\maior_100\maior_100\bin\Debug\maior_100.exe
+C:\Users\miguel.fbandeira\Documents\C#\maior_100\maior_100\bin\Debug\maior_100.pdb
+C:\Users\miguel.fbandeira\Documents\C#\maior_100\maior_100\obj\Debug\maior_100.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\maior_100\maior_100\obj\Debug\maior_100.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\maior_100\maior_100\obj\Debug\maior_100.exe
+C:\Users\miguel.fbandeira\Documents\C#\maior_100\maior_100\obj\Debug\maior_100.pdb

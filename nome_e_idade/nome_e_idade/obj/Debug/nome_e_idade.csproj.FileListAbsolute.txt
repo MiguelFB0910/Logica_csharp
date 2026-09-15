@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\nome_e_idade\nome_e_idade\bin\Debug\nome_e_idade.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\nome_e_idade\nome_e_idade\bin\Debug\nome_e_idade.exe
+C:\Users\miguel.fbandeira\Documents\C#\nome_e_idade\nome_e_idade\bin\Debug\nome_e_idade.pdb
+C:\Users\miguel.fbandeira\Documents\C#\nome_e_idade\nome_e_idade\obj\Debug\nome_e_idade.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\nome_e_idade\nome_e_idade\obj\Debug\nome_e_idade.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\nome_e_idade\nome_e_idade\obj\Debug\nome_e_idade.exe
+C:\Users\miguel.fbandeira\Documents\C#\nome_e_idade\nome_e_idade\obj\Debug\nome_e_idade.pdb
