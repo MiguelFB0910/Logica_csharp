@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ATV2_Salario\ATV2_Salario\bin\Debug\ATV2_Salario.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ATV2_Salario\ATV2_Salario\bin\Debug\ATV2_Salario.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV2_Salario\ATV2_Salario\bin\Debug\ATV2_Salario.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ATV2_Salario\ATV2_Salario\obj\Debug\ATV2_Salario.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV2_Salario\ATV2_Salario\obj\Debug\ATV2_Salario.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV2_Salario\ATV2_Salario\obj\Debug\ATV2_Salario.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV2_Salario\ATV2_Salario\obj\Debug\ATV2_Salario.pdb

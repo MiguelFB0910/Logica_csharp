@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ATV4_booleanos\ATV4_booleanos\bin\Debug\ATV4_booleanos.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ATV4_booleanos\ATV4_booleanos\bin\Debug\ATV4_booleanos.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV4_booleanos\ATV4_booleanos\bin\Debug\ATV4_booleanos.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ATV4_booleanos\ATV4_booleanos\obj\Debug\ATV4_booleanos.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV4_booleanos\ATV4_booleanos\obj\Debug\ATV4_booleanos.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV4_booleanos\ATV4_booleanos\obj\Debug\ATV4_booleanos.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV4_booleanos\ATV4_booleanos\obj\Debug\ATV4_booleanos.pdb

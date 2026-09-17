@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ATV3_5porcento\ATV3_5porcento\bin\Debug\ATV3_5porcento.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ATV3_5porcento\ATV3_5porcento\bin\Debug\ATV3_5porcento.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV3_5porcento\ATV3_5porcento\bin\Debug\ATV3_5porcento.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ATV3_5porcento\ATV3_5porcento\obj\Debug\ATV3_5porcento.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV3_5porcento\ATV3_5porcento\obj\Debug\ATV3_5porcento.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV3_5porcento\ATV3_5porcento\obj\Debug\ATV3_5porcento.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV3_5porcento\ATV3_5porcento\obj\Debug\ATV3_5porcento.pdb
