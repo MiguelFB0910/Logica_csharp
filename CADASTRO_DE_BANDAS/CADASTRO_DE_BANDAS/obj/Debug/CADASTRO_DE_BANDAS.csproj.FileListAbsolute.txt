@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\CADASTRO_DE_BANDAS\CADASTRO_DE_BANDAS\bin\Debug\CADASTRO_DE_BANDAS.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\CADASTRO_DE_BANDAS\CADASTRO_DE_BANDAS\bin\Debug\CADASTRO_DE_BANDAS.exe
+C:\Users\miguel.fbandeira\Documents\C#\CADASTRO_DE_BANDAS\CADASTRO_DE_BANDAS\bin\Debug\CADASTRO_DE_BANDAS.pdb
+C:\Users\miguel.fbandeira\Documents\C#\CADASTRO_DE_BANDAS\CADASTRO_DE_BANDAS\obj\Debug\CADASTRO_DE_BANDAS.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\CADASTRO_DE_BANDAS\CADASTRO_DE_BANDAS\obj\Debug\CADASTRO_DE_BANDAS.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\CADASTRO_DE_BANDAS\CADASTRO_DE_BANDAS\obj\Debug\CADASTRO_DE_BANDAS.exe
+C:\Users\miguel.fbandeira\Documents\C#\CADASTRO_DE_BANDAS\CADASTRO_DE_BANDAS\obj\Debug\CADASTRO_DE_BANDAS.pdb
