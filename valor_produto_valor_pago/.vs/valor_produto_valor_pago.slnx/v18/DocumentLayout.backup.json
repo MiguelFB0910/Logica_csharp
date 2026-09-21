@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miguel.fbandeira\\Documents\\C#\\valor_produto_valor_pago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15C2FD-A071-4F67-AC71-D8377925FBBF}|valor_produto_valor_pago\\valor_produto_valor_pago.csproj|c:\\users\\miguel.fbandeira\\documents\\c#\\valor_produto_valor_pago\\valor_produto_valor_pago\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15C2FD-A071-4F67-AC71-D8377925FBBF}|valor_produto_valor_pago\\valor_produto_valor_pago.csproj|solutionrelative:valor_produto_valor_pago\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miguel.fbandeira\\Documents\\C#\\valor_produto_valor_pago\\valor_produto_valor_pago\\Program.cs",
+              "RelativeDocumentMoniker": "valor_produto_valor_pago\\Program.cs",
+              "ToolTip": "C:\\Users\\miguel.fbandeira\\Documents\\C#\\valor_produto_valor_pago\\valor_produto_valor_pago\\Program.cs*",
+              "RelativeToolTip": "valor_produto_valor_pago\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:46:00.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ATV8_nascimento\ATV8_nascimento\bin\Debug\ATV8_nascimento.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ATV8_nascimento\ATV8_nascimento\bin\Debug\ATV8_nascimento.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV8_nascimento\ATV8_nascimento\bin\Debug\ATV8_nascimento.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ATV8_nascimento\ATV8_nascimento\obj\Debug\ATV8_nascimento.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV8_nascimento\ATV8_nascimento\obj\Debug\ATV8_nascimento.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV8_nascimento\ATV8_nascimento\obj\Debug\ATV8_nascimento.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV8_nascimento\ATV8_nascimento\obj\Debug\ATV8_nascimento.pdb

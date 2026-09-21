@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ATV9_temperatura\ATV9_temperatura\bin\Debug\ATV9_temperatura.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ATV9_temperatura\ATV9_temperatura\bin\Debug\ATV9_temperatura.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV9_temperatura\ATV9_temperatura\bin\Debug\ATV9_temperatura.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ATV9_temperatura\ATV9_temperatura\obj\Debug\ATV9_temperatura.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV9_temperatura\ATV9_temperatura\obj\Debug\ATV9_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV9_temperatura\ATV9_temperatura\obj\Debug\ATV9_temperatura.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV9_temperatura\ATV9_temperatura\obj\Debug\ATV9_temperatura.pdb

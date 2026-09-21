@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ATV7_valor_AB\ATV7_valor_AB\bin\Debug\ATV7_valor_AB.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ATV7_valor_AB\ATV7_valor_AB\bin\Debug\ATV7_valor_AB.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV7_valor_AB\ATV7_valor_AB\bin\Debug\ATV7_valor_AB.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ATV7_valor_AB\ATV7_valor_AB\obj\Debug\ATV7_valor_AB.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV7_valor_AB\ATV7_valor_AB\obj\Debug\ATV7_valor_AB.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV7_valor_AB\ATV7_valor_AB\obj\Debug\ATV7_valor_AB.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV7_valor_AB\ATV7_valor_AB\obj\Debug\ATV7_valor_AB.pdb

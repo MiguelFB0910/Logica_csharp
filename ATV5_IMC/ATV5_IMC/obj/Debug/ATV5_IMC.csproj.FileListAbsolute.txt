@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ATV5_IMC\ATV5_IMC\bin\Debug\ATV5_IMC.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ATV5_IMC\ATV5_IMC\bin\Debug\ATV5_IMC.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV5_IMC\ATV5_IMC\bin\Debug\ATV5_IMC.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ATV5_IMC\ATV5_IMC\obj\Debug\ATV5_IMC.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV5_IMC\ATV5_IMC\obj\Debug\ATV5_IMC.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ATV5_IMC\ATV5_IMC\obj\Debug\ATV5_IMC.exe
+C:\Users\miguel.fbandeira\Documents\C#\ATV5_IMC\ATV5_IMC\obj\Debug\ATV5_IMC.pdb

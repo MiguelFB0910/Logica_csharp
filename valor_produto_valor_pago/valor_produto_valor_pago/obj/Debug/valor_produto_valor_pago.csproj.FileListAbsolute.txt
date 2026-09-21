@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\valor_produto_valor_pago\valor_produto_valor_pago\bin\Debug\valor_produto_valor_pago.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\valor_produto_valor_pago\valor_produto_valor_pago\bin\Debug\valor_produto_valor_pago.exe
+C:\Users\miguel.fbandeira\Documents\C#\valor_produto_valor_pago\valor_produto_valor_pago\bin\Debug\valor_produto_valor_pago.pdb
+C:\Users\miguel.fbandeira\Documents\C#\valor_produto_valor_pago\valor_produto_valor_pago\obj\Debug\valor_produto_valor_pago.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\valor_produto_valor_pago\valor_produto_valor_pago\obj\Debug\valor_produto_valor_pago.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\valor_produto_valor_pago\valor_produto_valor_pago\obj\Debug\valor_produto_valor_pago.exe
+C:\Users\miguel.fbandeira\Documents\C#\valor_produto_valor_pago\valor_produto_valor_pago\obj\Debug\valor_produto_valor_pago.pdb
