@@ -181,27 +181,32 @@ namespace CADASTRO_DE_BANDAS
 
             Console.WriteLine("\nDigite o nome do album: ");
             nomealb = Console.ReadLine();
-            Console.WriteLine("Digite a qauntidade de musicas a serem cadastradas nesse album: ");
+            Console.WriteLine("\nDigite a qauntidade de musicas a serem cadastradas nesse album: ");
             qtdmusicas = int.Parse(Console.ReadLine());
 
-            for (contador = 0; contador <= qtdmusicas; contador++) {
+            for (contador = 1; contador <= qtdmusicas; contador++) {
 
-
+               
                 Console.WriteLine("\nDigite o nome da musica: ");
                 nomemus = Console.ReadLine();
                 Console.WriteLine("\nDigite a duração da musica em minutos: ");
                 duracao = int.Parse(Console.ReadLine());
                 Console.WriteLine("\nDigite o numero de premiações: ");
                 prem = int.Parse(Console.ReadLine());
-                Console.WriteLine("\nCadastro realizado com êxito!");
 
-                Console.WriteLine("\n" + qtdmusicas);
-                Console.WriteLine("\n" + nomemus);
-                Console.WriteLine("\n" + duracao);
-                Console.WriteLine("\n" + prem);
-                Thread.Sleep(8000);
+
+                Console.WriteLine("-------------------------------------------------->");
+                Console.WriteLine("\nCadastro realizado com êxito!");
+                Console.WriteLine("\nNome do album: " + nomealb);
+                Console.WriteLine("\nNome da musica: " + nomemus);
+                Console.WriteLine("\nDuração da musica: " + duracao + " Minutos");
+                Console.WriteLine("\nNumero de premiações: " + prem);
+                Console.WriteLine("\n------------------------>----------------------->");
+
+                Thread.Sleep(2000);
 
             }
+                Console.WriteLine("\nQuantidade de musicas cadastradas: " + qtdmusicas);
             
 
 
