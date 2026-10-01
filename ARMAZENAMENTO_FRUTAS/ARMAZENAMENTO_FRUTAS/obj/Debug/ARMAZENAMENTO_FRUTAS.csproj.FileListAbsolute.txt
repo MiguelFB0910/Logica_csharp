@@ -1,0 +1,7 @@
+C:\Users\miguel.fbandeira\Documents\C#\ARMAZENAMENTO_FRUTAS\ARMAZENAMENTO_FRUTAS\obj\Debug\ARMAZENAMENTO_FRUTAS.csproj.AssemblyReference.cache
+C:\Users\miguel.fbandeira\Documents\C#\ARMAZENAMENTO_FRUTAS\ARMAZENAMENTO_FRUTAS\obj\Debug\ARMAZENAMENTO_FRUTAS.csproj.CoreCompileInputs.cache
+C:\Users\miguel.fbandeira\Documents\C#\ARMAZENAMENTO_FRUTAS\ARMAZENAMENTO_FRUTAS\bin\Debug\ARMAZENAMENTO_FRUTAS.exe.config
+C:\Users\miguel.fbandeira\Documents\C#\ARMAZENAMENTO_FRUTAS\ARMAZENAMENTO_FRUTAS\bin\Debug\ARMAZENAMENTO_FRUTAS.exe
+C:\Users\miguel.fbandeira\Documents\C#\ARMAZENAMENTO_FRUTAS\ARMAZENAMENTO_FRUTAS\bin\Debug\ARMAZENAMENTO_FRUTAS.pdb
+C:\Users\miguel.fbandeira\Documents\C#\ARMAZENAMENTO_FRUTAS\ARMAZENAMENTO_FRUTAS\obj\Debug\ARMAZENAMENTO_FRUTAS.exe
+C:\Users\miguel.fbandeira\Documents\C#\ARMAZENAMENTO_FRUTAS\ARMAZENAMENTO_FRUTAS\obj\Debug\ARMAZENAMENTO_FRUTAS.pdb
